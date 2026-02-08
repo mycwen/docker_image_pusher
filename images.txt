@@ -3,3 +3,4 @@ redis:6.2
 python:3.10-slim
 nginx:latest
 snowdreamtech/frps:latest
+dataease/sqlbot
