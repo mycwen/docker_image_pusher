@@ -1,9 +1,7 @@
 postgres:16
 redis:6.2
-python:3.10-slim
 nginx:latest
 snowdreamtech/frps:latest
-dataease/sqlbot
 fatedier/frps:v0.67.0
 fatedier/frpc:v0.67.0
 python:3.10-slim-bookworm
